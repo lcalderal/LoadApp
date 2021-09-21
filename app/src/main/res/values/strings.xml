@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ND940C3-Project</string>
+    <string name="app_name">LoadApp</string>
     <string name="app_description">Download files from Internet</string>
     <string name="action_settings">Settings</string>
 
@@ -11,4 +11,19 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="cloud_download">one cloud with downward pointed arrow in the center</string>
+
+    <string name="glide_text">Glide - Image Loading Library by BumpTech</string>
+    <string name="load_app_text">LoadApp - Current repository by Udacity</string>
+    <string name="retrofit_text">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc.</string>
+    <string name="network_fail">No network available, please try again</string>
+    <string name="select_option">Please, select one of the options</string>
+
+    <!-- Repository -->
+    <string name="glide_url">https://github.com/bumptech/glide</string>
+    <string name="retrofit_url">https://github.com/square/retrofit</string>
+    <string name="loadApp_url">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter</string>
+    <string name="choose_file">Please select the file to download</string>
+    <string name="repository_channel_id">repository_channel</string>
+    <string name="githubRepo_notification_channel_name">Repo</string>
 </resources>
